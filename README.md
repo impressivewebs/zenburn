@@ -1,4 +1,5 @@
-![Zenburn CSS Demo](http://colinta.com/static/image/zenburn/css.png "Zenburn CSS Demo")
-![Zenburn HTML Demo](http://colinta.com/static/image/zenburn/html.png "Zenburn HTML Demo")
-![Zenburn Python Demo](http://colinta.com/static/image/zenburn/python.png "Zenburn Python Demo")
-![Zenburn Ruby Demo](http://colinta.com/static/image/zenburn/ruby.png "Zenburn Ruby Demo")
+# Zenburn Theme With Some Customizations
+
+I'm fiddling around with Sublime Text 2, and I've customized the "zenburn" theme to match the one I've been using in Notepad++.
+
+The main differences are that the background is darker and comments are shown in gray instead of green.
