@@ -4,4 +4,4 @@ I'm fiddling around with Sublime Text 2, and I've customized the "zenburn" theme
 
 The main differences are that the background is darker and comments are shown in gray instead of green.
 
-Originally from [here](http://www.sublimetext.com/forum/viewtopic.php?f=5&t=4797)
+Original is [here](https://github.com/colinta/zenburn)
